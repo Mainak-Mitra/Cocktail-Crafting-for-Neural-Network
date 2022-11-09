@@ -33,3 +33,13 @@ We will predict the survival of patients with heart failure from serum creatinin
 - smoking: If the patient smokes actively or ever did in past
 - time: It is the time of the patient's follow-up visit for the disease in months
 - DEATH_EVENT: If the patient deceased during the follow-up period
+
+## Summary of Validation Accuracy(Closing Call)
+![alt text](media/tb1.PNG)</br>
+![alt text](media/tb2.PNG)</br>
+![alt text](media/image10.png)</br>
+![alt text](media/tb3.PNG)</br>
+![alt text](image9.png)</br></br>
+
+## Classification:
+![alt text](media/tb4.PNG)

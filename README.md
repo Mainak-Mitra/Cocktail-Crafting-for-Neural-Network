@@ -42,4 +42,4 @@ We will predict the survival of patients with heart failure from serum creatinin
 ![alt text](image9.png)</br></br>
 
 ## Classification:
-![alt text](media/tb4.PNG)
+![alt text](media/tb4.PNG)</br>

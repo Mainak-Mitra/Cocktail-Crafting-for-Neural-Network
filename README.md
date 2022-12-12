@@ -18,7 +18,6 @@ We will predict the survival of patients with heart failure from serum creatinin
 - It is a binary classification with multiple numerical and categorical features.
 
 
-
 ## About the data:
 - age: Age of the patient
 - anemia: If the patient had the hemoglobin below the normal range
@@ -58,4 +57,4 @@ We will predict the survival of patients with heart failure from serum creatinin
 ![alt text](media/image6.png)</br>
 ![alt text](media/tb8.PNG)</br>
 <b>Regression- Loss Function: Binary_Crossentropy: </b>
-![alt text](media/image1.png)
+![alt text](media/image1.png)</br>
